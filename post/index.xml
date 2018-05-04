@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>@niwakk7</title>
-    <link>http://example.org/</link>
-    <description>Recent content on @niwakk7</description>
+    <title>Posts on @niwakk7</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on @niwakk7</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>js</language>
     <lastBuildDate>Thu, 03 May 2018 21:40:04 +0900</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
